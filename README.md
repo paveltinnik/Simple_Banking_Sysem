@@ -6,7 +6,7 @@ This application simulates a simple banking system. There are three items in the
 2. Log into account (Requests the card number and pin code to enter the account)
 0. Exit
 
-When you are login in the account, the following menu appears:
+When you login in the account, the following menu appears:
 1. Balance (Shows your balance)
 2. Add income (Requests the amount and adds to your balance)
 3. Do transfer (Transfer funds to another account)
