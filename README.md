@@ -1,4 +1,4 @@
-# Simple Banking Sysem
+# Simple Banking System
 To run the application without progress line type in cmd "gradle --console plain run"
 
 This application simulates a simple banking system. There are three items in the start menu: 
